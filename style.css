@@ -30,3 +30,8 @@ body{
 .date{
     display: flex;
 }
+
+body h1{
+    justify-content: center;
+    margin-left: 650px;
+}
